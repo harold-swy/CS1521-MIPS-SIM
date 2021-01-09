@@ -1,6 +1,5 @@
 # CS1521-MIPS-SIM
-Mips Assembly Simulator for CS1521 @ UNSW
-
+Mips Assembly Simulator writtedn in C for CS1521
 Grade: ~95%. Failed a few edge cases.
 
 
